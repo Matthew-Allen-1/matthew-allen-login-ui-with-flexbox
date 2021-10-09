@@ -12,10 +12,7 @@ html,body{
 }
 
 .container:hover {
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Typing_example.ogv/220px--Typing_example.ogv.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+git show
 }
 
 .card   {
